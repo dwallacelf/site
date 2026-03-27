@@ -33,15 +33,26 @@ collaborate on this opportunity.
 
 Developer Resources
 
-[![FD.io Gerrit Repo](https://img.shields.io/badge/Code-Gerrit-brightgreen.svg?style=for-the-badge&logo=gerrit)](https://gerrit.fd.io)
-[![FD.io Jira issues](https://img.shields.io/badge/Jira-Issues-shields.svg?style=for-the-badge&logo=jira)](https://jira.fd.io)
-[![GoVPP GitHub Repo](https://img.shields.io/badge/Code-GoVPP%20GitHub-brightgreen.svg?style=for-the-badge&logo=github)](https://github.com/fdio/govpp)
+[![VPP GitHub Repo (mirror)](https://img.shields.io/badge/VPP%20Code%20%20-GitHub%20Mirror%20-brightgreen.svg?style=for-the-badge&logo=github)](https://github.com/fdio/vpp)
+[![CSIT GitHub Repo (mirror)](https://img.shields.io/badge/CSIT%20Code-GitHub%20Mirror-brightgreen.svg?style=for-the-badge&logo=github)](https://github.com/fdio/csit)
+[![GoVPP GitHub Repo](https://img.shields.io/badge/GoVPP%20Code%20%20%20%20%20%20%20-GitHub-brightgreen.svg?style=for-the-badge&logo=github)](https://github.com/fdio/govpp)
+
+[![VPP Gerrit Code Review](https://img.shields.io/badge/VPP%20Review-Gerrit-brightgreen.svg?style=for-the-badge&logo=gerrit)](https://gerrit.fd.io/r/q/project:vpp)
+[![CSIT Gerrit Code Review](https://img.shields.io/badge/CSIT%20Review-Gerrit-brightgreen.svg?style=for-the-badge&logo=gerrit)](https://gerrit.fd.io/r/q/project:csit)
+[![GoVPP GitHub PR](https://img.shields.io/badge/GoVPP%20Review-GitHub%20PRs-brightgreen.svg?style=for-the-badge&logo=github)](https://github.com/fdio/govpp/pulls)
+
+[![VPP GitHub Issues](https://img.shields.io/badge/VPP%20Issues-GitHub%20Issues-brightgreen.svg?style=for-the-badge&logo=github)](https://github.com/fdio/vpp/issues)
+[![CSIT GitHub Issues](https://img.shields.io/badge/CSIT%20Issues-GitHub%20Issues-brightgreen.svg?style=for-the-badge&logo=github)](https://github.com/fdio/csit/issues)
+[![GoVPP GitHub Issues](https://img.shields.io/badge/GoVPP%20Issues-GitHub%20Issues-brightgreen.svg?style=for-the-badge&logo=github)](https://github.com/fdio/govpp/issues)
+
+[![VPP GitHub Actions](https://img.shields.io/badge/VPP%20CI-GitHub%20Actions%20-brightgreen.svg?style=for-the-badge&logo=github)](https://github.com/fdio/vpp/actions)
+[![CSIT GitHub Actions](https://img.shields.io/badge/CSIT%20CI-GitHub%20Actions-brightgreen.svg?style=for-the-badge&logo=github)](https://github.com/fdio/vpp/actions)
+[![GoVPP GitHub Actions](https://img.shields.io/badge/GoVPP%20CI-GitHub%20Actions-brightgreen.svg?style=for-the-badge&logo=github)](https://github.com/fdio/vpp/actions)
 
 Developer Communications
 
 [![vpp-dev Mailing List](https://img.shields.io/badge/VPP-Mailing%20List-blue.svg?style=for-the-badge)](https://lists.fd.io/g/vpp-dev)
-[![CSIT Mailing List](https://img.shields.io/badge/CSIT-Mailing%20List-blue.svg?style=for-the-badge)](https://lists.fd.io/g/csit-dev)
-[![GoVPP Slack](https://img.shields.io/badge/GoVPP-Slack-yellow.svg?style=for-the-badge&logo=slack)](https://fdio-project.slack.com/archives/C01905FGAQ0)
+[![csit-dev Mailing List](https://img.shields.io/badge/CSIT-Mailing%20List-blue.svg?style=for-the-badge)](https://lists.fd.io/g/csit-dev)
 [![GoVPP Mailing List](https://img.shields.io/badge/GoVPP-Mailing%20List-blue.svg?style=for-the-badge)](https://lists.fd.io/g/govpp-dev)
 [![TSC Mailing List](https://img.shields.io/badge/TSC-Mailing%20List-blue.svg?style=for-the-badge)](https://lists.fd.io/g/tsc)
 
@@ -54,7 +65,7 @@ Community Meetings
 
 FD.io Communications
 
-[![Libera Chat](https://img.shields.io/badge/Libera%20Chat-blue.svg?style=for-the-badge)](https://web.libera.chat)
-[![FD.io Slack](https://img.shields.io/badge/Slack-yellow.svg?style=for-the-badge&logo=slack)](https://fdio-project.slack.com/archives/CE0AR9YHG)
-[![Twitter](https://img.shields.io/badge/Twitter-blue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/FDioProject)
-[![Youtube](https://img.shields.io/badge/Youtube-blue.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCIJ2OP6_i1npoHM39kxvwyg/videos)
+[![Libera Chat](https://img.shields.io/badge/Libera%20Chat%20IRC-brightgreen.svg?style=for-the-badge&logo=liberadotchat)](https://web.libera.chat)
+[![FD.io Zulip](https://img.shields.io/badge/Zulip%20Chat-brightgreen.svg?style=for-the-badge&logo=zulip)](https://linuxfoundation.zulipchat.com/#narrow/channel/513545-lfn-fdio-discussion)
+[![X](https://img.shields.io/badge/X-brightgreen.svg?style=for-the-badge&logo=x)](https://x.com/FDioProject)
+[![Youtube](https://img.shields.io/badge/Youtube-brightgreen.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCIJ2OP6_i1npoHM39kxvwyg/videos)
